@@ -1,0 +1,42 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: greenyellow;
+    background-color: black;
+}
+.support{
+    text-align: center;
+    margin-top: 50px;
+}
+#hv:hover{
+    text-decoration: underline;
+    color: white;
+}
+.sub{
+    color:black;
+    background-color: greenyellow;
+    padding: 5px 7px 5px 7px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+.contact{
+    text-align: center;
+    margin-top: 100px;
+}
+header{
+    text-align: center;
+    margin-top: 100px;
+}
+.identity{
+    text-align: center;
+    
+}
+#side{
+    padding-left: 5px;
+}
+#sub{
+    color:black;
+    background-color: greenyellow;
+    padding: 5px 7px 5px 7px;
+    margin-left: 30px;
+    border-radius: 10px;
+}
